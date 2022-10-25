@@ -2,4 +2,4 @@
 met = float(input('Quantos metros? '))
 cent = met * 100
 mil = met * 1000
-print('{} metro(s) equivalem a {} centímetros e {} milímetros.'.format(met, cent, mil))
+print('{}m equivalem a {}cm e {}mm.'.format(met, cent, mil))
